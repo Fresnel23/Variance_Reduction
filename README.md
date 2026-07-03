@@ -64,7 +64,7 @@ This repository contains steady-state animations of the numerical solutions obta
 
 <p align="center">
 
-&#x20; <img src="animations/circles\_16.gif" width="800">
+&#x20; <img src="animations/circles_16.gif" width="800">
 
 </p>
 
