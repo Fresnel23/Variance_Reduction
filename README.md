@@ -1,6 +1,6 @@
-# Variance Reduction for the MOS Method
+# Variance Reduction Techniques for Markov Operator Splitting Methods in Fluid Dynamics
 
-Steady-state numerical simulations obtained with the **MOS (Monte Carlo-Oriented Solver)** using variance reduction techniques.
+Steady-state numerical simulations obtained with the **MOS (Markov Operator Splitting Methods)** using variance reduction techniques.
 
 <p align="center">
   <i>Repository accompanying the development and validation of the MOS numerical methodology.</i>
@@ -20,7 +20,7 @@ The animations are intended to provide a qualitative visualization of the conver
 
 ### 1. Square Cavity
 
-Steady-state flow animation obtained using the MOS method.
+Steady-state flow animation obtained using the MOS method, single obstacle.
 
 <p align="center">
   <img src="animations/square.gif" width="850">
@@ -30,7 +30,7 @@ Steady-state flow animation obtained using the MOS method.
 
 ### 2. Multiple Squares
 
-Steady-state flow animation obtained using the MOS method.
+Steady-state flow animation obtained using the MOS method, six square obstacles.
 
 <p align="center">
   <img src="animations/squares.gif" width="850">
@@ -40,7 +40,7 @@ Steady-state flow animation obtained using the MOS method.
 
 ### 3. Circular Obstacles (16 cylinders)
 
-Steady-state flow animation obtained using the MOS method.
+Steady-state flow animation obtained using the MOS method, 16 circular obstacles.
 
 <p align="center">
   <img src="animations/circles_16.gif" width="850">
